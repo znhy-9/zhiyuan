@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.dao.JifenlipinDao">
+
+	<!-- 可根据自己的需求，是否要使用 -->
+    <resultMap type="com.entity.JifenlipinEntity" id="jifenlipinMap">
+        <result property="lipinbianhao" column="lipinbianhao"/>
+        <result property="lipinmingcheng" column="lipinmingcheng"/>
+        <result property="lipinfengmian" column="lipinfengmian"/>
+        <result property="lipinshuliang" column="lipinshuliang"/>
+        <result property="suoxujifen" column="suoxujifen"/>
+        <result property="jianjie" column="jianjie"/>
+        <result property="fabushijian" column="fabushijian"/>
+    </resultMap>
+
+	<select id="selectListVO"
+		resultType="com.entity.vo.JifenlipinVO" >
+		SELECT * FROM jifenlipin  jifenlipin         
+        <where> 1=1 ${ew.sqlSegment}</where>
+	</select>
+	
+	<select id="selectVO"
+		resultType="com.entity.vo.JifenlipinVO" >
+		SELECT  jifenlipin.* FROM jifenlipin  jifenlipin 	
+ 		<where> 1=1 ${ew.sqlSegment}</where>
+	</select>
+
+    <select id="selectListView"
+		resultType="com.entity.view.JifenlipinView" >
+
+		SELECT  jifenlipin.* FROM jifenlipin  jifenlipin 	        
+        <where> 1=1 ${ew.sqlSegment}</where>
+	</select>
+	
+	<select id="selectView"
+		resultType="com.entity.view.JifenlipinView" >
+		SELECT * FROM jifenlipin  jifenlipin <where> 1=1 ${ew.sqlSegment}</where>
+	</select>
+	
+
+
+</mapper>

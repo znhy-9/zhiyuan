@@ -1,0 +1,319 @@
+{
+	"pages": [ {
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	},{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	}, {
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	}, {
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	}, {
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	}, {
+		"path": "pages/user-info/user-info",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+	, {
+		"path": "pages/news-detail/news-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告栏详情"
+		}
+	}
+	,{
+		"path": "pages/zhiyuanzhe/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/zhiyuanzhe/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/zhiyuanzhe/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/zhiyuanhuodong/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/zhiyuanhuodong/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/zhiyuanhuodong/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/huodongbaoming/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/huodongbaoming/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/huodongbaoming/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/fuwujilu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/fuwujilu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/fuwujilu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/jifenlipin/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/jifenlipin/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/jifenlipin/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/jifenduihuan/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/jifenduihuan/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/jifenduihuan/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/newstype/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/newstype/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/newstype/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/storeup/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/storeup/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/storeup/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/aboutus/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/aboutus/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/aboutus/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/discusszhiyuanhuodong/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/discusszhiyuanhuodong/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/discusszhiyuanhuodong/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+		}
+	}
+    ,{
+        "path": "common/linkOthers/linkOthers",
+        "style": {
+			"navigationBarBackgroundColor": "#EF7061",
+			"navigationBarTextStyle": "white"
+        }
+    }
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "社区志愿者管理系统",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#EFDC07",
+		"borderStyle": "white",
+		"backgroundColor": "#EF7061",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			
+
+			,{
+				"pagePath": "pages/zhiyuanhuodong/list",
+				"iconPath": "/static/tabs/icon1.png",
+				"selectedIconPath": "/static/tabs/icon1_act.png",
+				"text": "志愿活动"
+			}
+			,{
+				"pagePath": "pages/jifenlipin/list",
+				"iconPath": "/static/tabs/icon2.png",
+				"selectedIconPath": "/static/tabs/icon2_act.png",
+				"text": "积分礼品"
+			}
+
+
+
+
+
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
